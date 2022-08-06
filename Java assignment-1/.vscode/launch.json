@@ -1,0 +1,87 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Exp8",
+      "request": "launch",
+      "mainClass": "Exp8",
+      "projectName": "Java assignment-1_459127c"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exp9",
+      "request": "launch",
+      "mainClass": "Exp9",
+      "projectName": "Java assignment-1_459127c"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exp7",
+      "request": "launch",
+      "mainClass": "Exp7",
+      "projectName": "Java assignment-1_459127c"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exp5",
+      "request": "launch",
+      "mainClass": "Exp5",
+      "projectName": "Java assignment-1_459127c"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exp6",
+      "request": "launch",
+      "mainClass": "Exp6",
+      "projectName": "Java assignment-1_459127c"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exp4",
+      "request": "launch",
+      "mainClass": "Exp4",
+      "projectName": "Java assignment-1_459127c"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exp3",
+      "request": "launch",
+      "mainClass": "Exp3",
+      "projectName": "Java assignment-1_459127c"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exp2",
+      "request": "launch",
+      "mainClass": "Exp2",
+      "projectName": "Java assignment-1_459127c"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exp1",
+      "request": "launch",
+      "mainClass": "Exp1",
+      "projectName": "Java assignment-1_459127c"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": false,
+      "cwd": "e:/Java/Java assignment-1",
+      "program": "e:/Java/Java assignment-1/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
