@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch isArray",
+      "request": "launch",
+      "mainClass": "isArray",
+      "projectName": "practice_91f6926e"
+    },
+    {
+      "type": "java",
+      "name": "Launch isLinked",
+      "request": "launch",
+      "mainClass": "isLinked",
+      "projectName": "practice_91f6926e"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "e:/Java/practice",
+      "program": "e:/Java/practice/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

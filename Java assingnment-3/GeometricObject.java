@@ -17,8 +17,7 @@ class circle extends GeometricObject {
     }
 
     void getPerimeter() {
-        System.out.println("perimeter of circle:" + 2 * 3.14 *
-                r);
+        System.out.println("perimeter of circle:" + 2 * 3.14 * r);
     }
 }
 
@@ -27,16 +26,14 @@ class rectangle extends GeometricObject {
     int l, b;
 
     void getArea() {
-    System.out.println("Enter length and breadth of
-    rectangle ");
+    System.out.println("Enter length and breadth of rectangle ");
     l = sc.nextInt();
     b = sc.nextInt();
 System.out.println("Area of rectangle: " + l * b);
 }
 
     void getPerimeter() {
-        System.out.println("Perimeter of rectangle : " + 2 * (l
-                + b));
+        System.out.println("Perimeter of rectangle : " + 2 * (l + b));
     }
 }
 
@@ -59,7 +56,7 @@ class TestGeometricObject {
     }
 }
 
-class Practical_1 {
+class Testobj {
     public static void main(String[] args) {
         GeometricObject OC = new circle();
         GeometricObject OR = new rectangle();
