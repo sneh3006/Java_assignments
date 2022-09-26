@@ -1,8 +1,8 @@
-
 import java.util.*;
+import java.util.TreeSet;
  public class Vector2 {
    public static void main(String[] args) {
-    TreeSet a=new TreeSet();  
+    TreeSet a=new TreeSet<>();  
     a.add(10);
     a.add(15);
     a.add(14);
