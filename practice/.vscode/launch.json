@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch hashtable",
+      "request": "launch",
+      "mainClass": "hashtable",
+      "projectName": "practice_91f6926e"
+    },
+    {
+      "type": "java",
+      "name": "Launch HashmapExample",
+      "request": "launch",
+      "mainClass": "HashmapExample",
+      "projectName": "practice_91f6926e"
+    },
+    {
+      "type": "java",
       "name": "Launch isArray",
       "request": "launch",
       "mainClass": "isArray",
